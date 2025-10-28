@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+boto3==1.35.39
+pydantic==2.9.2
+python-jose[cryptography]==3.3.0
+httpx==0.27.2
+SQLAlchemy==2.0.36
+psycopg[binary]==3.2.3
+confluent-kafka==2.6.0
+python-multipart==0.0.9
+orjson==3.10.7
+clamd==1.0.2
